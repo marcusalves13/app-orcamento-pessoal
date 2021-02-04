@@ -4,7 +4,7 @@ Material desenvolvido durante os estudos do curso Desenvolvimento Web completo 2
 <a href="https://www.udemy.com/course/web-completo/learn/lecture/9371366?start=15#overview">Link do Curso</a>
 </h4>
 <h4 align="center">
-Projeto utiliza	local storage  do navegador utilizado para salvar os dados da aplicação 
+Projeto utiliza	local storage  do navegador  para salvar os dados da aplicação 
 </h4>
 <p>Projeto criado usando:</p>
 <ul>
